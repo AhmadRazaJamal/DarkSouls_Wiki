@@ -8,7 +8,7 @@
 
 ## About
 
-An online wikipedia for DarkSouls. A single page wikipedia that is for the fans and lore explorer of darksouls. It was made for one of the courses taken at UBCO and ranked among top 3 for it's content and aesthetic. 
+An online Wikipedia for DarkSouls. A single page wikipedia that is for the fans and lore explorer of darksouls. It was made for one of the courses taken at UBCO and ranked among top 3 for it's content and aesthetic. 
 
 ## Demo Preview
 
